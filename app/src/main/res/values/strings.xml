@@ -1,0 +1,62 @@
+<resources>
+
+
+    <string name="app_name">KolkoIKrzyzk</string>
+    <string name="facebook_application_id" translatable="false">320923341658760</string>
+    <string name="action_logout"> Log Out</string>
+    <string name="loading">Loading</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email">Email Id</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_register">New user, tap here to register !</string>
+    <string name="register">Register</string>
+
+    <string name="user_successfully_added">User successfully added!</string>
+    <string name="user_unable_to_add">Unable to add user!</string>
+    <string name="adding_user_to_db">Adding user to database.</string>
+    <string name="please_wait">Please wait...</string>
+
+    <string name="font_family_roboto_light">sans-serif-thin</string>
+    <string name="type_a_message">Type a message...</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="logout">Logout</string>
+    <string name="are_you_sure">Are you sure ?</string>
+    <string name="cancel">Cancel</string>
+
+
+    <string name="action_photo">View photo</string>
+    <string name="action_info">Photo info</string>
+    <string name="title_activity_offline">Offline</string>
+    <string name="offline">Offline</string>
+
+
+    <string name="first_human">Zaczynasz</string>
+    <string name="turn_human">Twój ruch</string>
+    <string name="turn_computer">Ruch komputera</string>
+    <string name="result_tie">REMIS!</string>
+    <string name="result_human_wins">Wygrałeś</string>
+    <string name="result_android_wins">Przegrałeś</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+    <string name="seven">7</string>
+    <string name="eight">8</string>
+    <string name="nine">9</string>
+    <string name="info">Info</string>
+    <string name="human">Human: </string>
+    <string name="again">Play again </string>
+    <string name="ties">Ties: </string>
+    <string name="android">Android: </string>
+    <string name="contact_heading">Contact Info</string>
+    <string name="playoffline">Android: </string>
+    <string name="fb">Android: </string>
+    <string name="contact_info"></string>
+    <string name="exit">Exit</string>
+
+
+</resources>

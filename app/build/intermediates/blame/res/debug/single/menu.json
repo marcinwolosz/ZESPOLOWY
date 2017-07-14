@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\MARCIN\\AndroidStudioProjects\\ProjektZespolowy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Users\\MARCIN\\AndroidStudioProjects\\ProjektZespolowy\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\MARCIN\\AndroidStudioProjects\\ProjektZespolowy\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_user_listing.xml",
+        "source": "C:\\Users\\MARCIN\\AndroidStudioProjects\\ProjektZespolowy\\app\\src\\main\\res\\menu\\menu_user_listing.xml"
+    }
+]

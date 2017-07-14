@@ -1,0 +1,300 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:3:5-53
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\MARCIN\.android\build-cache\5edf17000fee58ebc194b2c39533253ba625ba35\output\AndroidManifest.xml:20:5-66
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:20:5-66
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:8:5-63:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] C:\Users\MARCIN\.android\build-cache\ed06421233d2ce8b7cd8fe0677d0014e942bde01\output\AndroidManifest.xml:28:5-20
+MERGED from [com.android.support:design:23.1.1] C:\Users\MARCIN\.android\build-cache\2095547b46a83607706413cf22b4b67491f8dd65\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\MARCIN\.android\build-cache\8e6d425ec0733d6ebf039845c7db5993ddfab1b6\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MARCIN\.android\build-cache\4c4b5bcc19259c65b5562ad80782048954f30e61\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\86c4152bf58d26b240816961ffa3a7c63f742eab\output\AndroidManifest.xml:19:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\MARCIN\.android\build-cache\92f3ce4a66811fc62287497b735ee00b8bd5e690\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:19:5-29:19
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\MARCIN\.android\build-cache\4323df9d6ff9ed53269f64d8bdb054e698ce0caf\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:24:5-33:19
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\MARCIN\.android\build-cache\5edf17000fee58ebc194b2c39533253ba625ba35\output\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:28:5-50:19
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\MARCIN\.android\build-cache\12ab9d36ac69017c556a7c565be1047a21895084\output\AndroidManifest.xml:4:5-7:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\MARCIN\.android\build-cache\71a08bda3b8baf09cfe5257f8fa6530569dfffd7\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\MARCIN\.android\build-cache\a0fc9d55e8075ee8272d06adc050794d70722a2b\output\AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\MARCIN\.android\build-cache\24ce692ae259bec2b8a88172bd19803f7b244b5c\output\AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:12:9-41
+	android:allowBackup
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:13:9-40
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:9:9-42
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:14:9-16:63
+	android:value
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:16:13-60
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:15:13-58
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:18:9-22:75
+	android:label
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:21:13-45
+	android:configChanges
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:20:13-96
+	android:theme
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:22:13-72
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:19:13-57
+activity#com.example.baidMarcinos.kolkoikrzyzyk.activities.LoginActivity
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:23:9-32:20
+	android:label
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:25:13-38
+	android:theme
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:26:13-56
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:24:13-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:27:13-31:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:28:17-69
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:28:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:30:27-74
+activity#com.example.baidMarcinos.kolkoikrzyzyk.activities.MainActivity
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:33:9-36:59
+	android:label
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:35:13-43
+	android:theme
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:36:13-56
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:34:13-52
+activity#com.example.baidMarcinos.kolkoikrzyzyk.activities.GameRoomActivity
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:43:9-47:20
+	android:label
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:44:13-33
+	android:theme
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:45:13-74
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:43:19-62
+activity#com.example.baidMarcinos.kolkoikrzyzyk.activities.OfflineActivity
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:49:9-53:20
+	android:label
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:50:13-33
+	android:theme
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:51:13-74
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:49:19-61
+service#com.example.baidMarcinos.kolkoikrzyzyk.FCM.MyFirebaseInstanceIDService
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:55:9-59:19
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:55:18-65
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:56:13-58:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:57:17-80
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:57:25-77
+activity#com.example.baidMarcinos.kolkoikrzyzyk.activities.UsersListActivity
+ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:61:9-66
+	android:name
+		ADDED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml:61:19-63
+uses-sdk
+INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.facebook.android:facebook-android-sdk:4.6.0] C:\Users\MARCIN\.android\build-cache\ed06421233d2ce8b7cd8fe0677d0014e942bde01\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:23.1.1] C:\Users\MARCIN\.android\build-cache\2095547b46a83607706413cf22b4b67491f8dd65\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\MARCIN\.android\build-cache\8e6d425ec0733d6ebf039845c7db5993ddfab1b6\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\MARCIN\.android\build-cache\45a9835c39914453df1020898fbe9419a4db6d6e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\MARCIN\.android\build-cache\4c4b5bcc19259c65b5562ad80782048954f30e61\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:10.0.1] C:\Users\MARCIN\.android\build-cache\f751d6fc5f8c1e60ea9081ab5f09d0552d7e2134\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\86c4152bf58d26b240816961ffa3a7c63f742eab\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\MARCIN\.android\build-cache\92f3ce4a66811fc62287497b735ee00b8bd5e690\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-database:10.0.1] C:\Users\MARCIN\.android\build-cache\9d4e9b7387bfe34e7393c335a0654dc6a8db745e\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-database-connection:10.0.1] C:\Users\MARCIN\.android\build-cache\9b9c10d5a8f5b4b2a0c86c5f257bb167b6cb0c2d\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-core:10.0.1] C:\Users\MARCIN\.android\build-cache\4323df9d6ff9ed53269f64d8bdb054e698ce0caf\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\MARCIN\.android\build-cache\5edf17000fee58ebc194b2c39533253ba625ba35\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.firebase:firebase-common:10.0.1] C:\Users\MARCIN\.android\build-cache\12ab9d36ac69017c556a7c565be1047a21895084\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] C:\Users\MARCIN\.android\build-cache\71a08bda3b8baf09cfe5257f8fa6530569dfffd7\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\MARCIN\.android\build-cache\a0fc9d55e8075ee8272d06adc050794d70722a2b\output\AndroidManifest.xml:17:5-42
+MERGED from [com.android.support:support-v4:24.0.0] C:\Users\MARCIN\.android\build-cache\24ce692ae259bec2b8a88172bd19803f7b244b5c\output\AndroidManifest.xml:21:5-23:54
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:24.0.0] C:\Users\MARCIN\.android\build-cache\24ce692ae259bec2b8a88172bd19803f7b244b5c\output\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MARCIN\AndroidStudioProjects\ProjektZespolowy\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:10.0.1] C:\Users\MARCIN\.android\build-cache\d57f96a9f7c7457fa5e36cea20f207643d99ca5e\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\MARCIN\.android\build-cache\92f3ce4a66811fc62287497b735ee00b8bd5e690\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\MARCIN\.android\build-cache\92f3ce4a66811fc62287497b735ee00b8bd5e690\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\MARCIN\.android\build-cache\92f3ce4a66811fc62287497b735ee00b8bd5e690\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] C:\Users\MARCIN\.android\build-cache\92f3ce4a66811fc62287497b735ee00b8bd5e690\output\AndroidManifest.xml:19:19-85
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:23:9-27:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:23:88-111
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:23:18-87
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:24:13-26:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:24:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:10.0.1] C:\Users\MARCIN\.android\build-cache\559f9abfaceae92f0d82c99b588682b568ff04b6\output\AndroidManifest.xml:25:25-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\MARCIN\.android\build-cache\5edf17000fee58ebc194b2c39533253ba625ba35\output\AndroidManifest.xml:21:5-78
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:21:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\MARCIN\.android\build-cache\5edf17000fee58ebc194b2c39533253ba625ba35\output\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:22:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:25:7-26:18
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\MARCIN\.android\build-cache\5edf17000fee58ebc194b2c39533253ba625ba35\output\AndroidManifest.xml:25:7-26:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:25:90-112
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:25:113-137
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:25:17-89
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:27:7-31:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:27:162-184
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:27:105-161
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:27:17-104
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:28:11-30:27
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:29:15-76
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:29:23-74
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:32:7-137
+MERGED from [com.google.firebase:firebase-analytics-impl:10.0.1] C:\Users\MARCIN\.android\build-cache\5edf17000fee58ebc194b2c39533253ba625ba35\output\AndroidManifest.xml:27:7-137
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:32:88-110
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:32:111-135
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:10.0.1] C:\Users\MARCIN\.android\build-cache\0caa21d80998b14463cc2332acc3b0884b9b9174\output\AndroidManifest.xml:32:16-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:22:5-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:22:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:24:5-109
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:24:72-107
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:24:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:26:5-78
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:26:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:30:9-36:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:30:85-108
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:30:109-169
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:30:19-84
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:31:13-35:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:32:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:32:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:33:17-85
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:33:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:34:17-60
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:34:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:40:9-119
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:40:93-117
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:40:19-92
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:44:9-48:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:44:83-106
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:10.0.1] C:\Users\MARCIN\.android\build-cache\1fd785fb59efafe929736d1fe21bdec3d0d9c307\output\AndroidManifest.xml:44:18-82
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\MARCIN\.android\build-cache\12ab9d36ac69017c556a7c565be1047a21895084\output\AndroidManifest.xml:6:9-194
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\MARCIN\.android\build-cache\12ab9d36ac69017c556a7c565be1047a21895084\output\AndroidManifest.xml:6:19-78
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\MARCIN\.android\build-cache\12ab9d36ac69017c556a7c565be1047a21895084\output\AndroidManifest.xml:6:144-168
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\MARCIN\.android\build-cache\12ab9d36ac69017c556a7c565be1047a21895084\output\AndroidManifest.xml:6:169-192
+	android:name
+		ADDED from [com.google.firebase:firebase-common:10.0.1] C:\Users\MARCIN\.android\build-cache\12ab9d36ac69017c556a7c565be1047a21895084\output\AndroidManifest.xml:6:79-143
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\MARCIN\.android\build-cache\a0fc9d55e8075ee8272d06adc050794d70722a2b\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\MARCIN\.android\build-cache\a0fc9d55e8075ee8272d06adc050794d70722a2b\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] C:\Users\MARCIN\.android\build-cache\a0fc9d55e8075ee8272d06adc050794d70722a2b\output\AndroidManifest.xml:20:20-65

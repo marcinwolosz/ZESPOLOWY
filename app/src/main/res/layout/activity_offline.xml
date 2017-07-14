@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/one"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text=""
+        android:layout_alignParentTop="true"
+        android:layout_toLeftOf="@+id/two"
+        android:layout_toStartOf="@+id/two"
+        android:layout_marginTop="34dp" />
+
+    <Button
+        android:id="@+id/two"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text=""
+        android:layout_alignBottom="@+id/one"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:id="@+id/three"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text=""
+        android:layout_alignBottom="@+id/one"
+        android:layout_toRightOf="@+id/two"
+        android:layout_toEndOf="@+id/two" />
+
+    <Button
+        android:id="@+id/four"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_alignLeft="@+id/one"
+        android:layout_alignStart="@+id/one"
+        android:layout_below="@+id/one"
+        android:text="" />
+
+    <Button
+        android:id="@+id/five"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_below="@+id/two"
+        android:layout_toEndOf="@+id/four"
+        android:layout_toRightOf="@+id/four"
+        android:text="" />
+
+    <Button
+        android:id="@+id/six"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text=""
+        android:layout_below="@+id/three"
+        android:layout_toRightOf="@+id/two"
+        android:layout_toEndOf="@+id/two" />
+
+    <Button
+        android:id="@+id/seven"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text=""
+        android:layout_below="@+id/four"
+        android:layout_alignLeft="@+id/four"
+        android:layout_alignStart="@+id/four" />
+
+    <Button
+        android:id="@+id/eight"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text=""
+        android:layout_alignBottom="@+id/nine"
+        android:layout_toRightOf="@+id/seven"
+        android:layout_toEndOf="@+id/seven" />
+
+
+    <Button
+        android:id="@+id/nine"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:text=""
+        android:layout_below="@+id/five"
+        android:layout_toRightOf="@+id/five"
+        android:layout_toEndOf="@+id/five" />
+
+    <TextView
+        android:id="@+id/tiesCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="20sp"
+        android:layout_below="@+id/textView11"
+        android:layout_alignLeft="@+id/again"
+        android:layout_alignStart="@+id/again" />
+
+    <TextView
+        android:textSize="20sp"
+        android:id="@+id/humanCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_above="@+id/textView10"
+        android:layout_alignRight="@+id/textView10"
+        android:layout_alignEnd="@+id/textView10" />
+    <TextView
+        android:id="@+id/information"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:textSize="30sp"
+        android:layout_marginTop="18dp"
+        android:layout_below="@+id/eight"
+        android:layout_alignRight="@+id/nine"
+        android:layout_alignEnd="@+id/nine" />
+    <TextView
+        android:textSize="20sp"
+        android:id="@+id/androidCount"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="TextView"
+        android:layout_below="@+id/textView10"
+        android:layout_alignRight="@+id/textView10"
+        android:layout_alignEnd="@+id/textView10" />
+
+
+    <Button
+        android:id="@+id/again"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+        android:onClick="again"
+        android:text="Again"
+        android:textColor="#a4c639"
+        android:textSize="30sp"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/eight"
+        android:layout_toStartOf="@+id/eight"
+        android:layout_marginBottom="39dp" />
+
+    <TextView
+        android:id="@+id/textView12"
+
+        android:textSize="20sp"
+        android:text="You"
+        android:textColor="#a4c639"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_above="@+id/humanCount"
+        android:layout_alignRight="@+id/humanCount"
+        android:layout_alignEnd="@+id/humanCount" />
+
+    <TextView
+        android:id="@+id/textView10"
+
+        android:textSize="20sp"
+        android:text="Computer"
+        android:textColor="#a4c639"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignBaseline="@+id/again"
+        android:layout_alignBottom="@+id/again"
+        android:layout_alignRight="@+id/information"
+        android:layout_alignEnd="@+id/information"
+/>
+
+    <TextView
+        android:id="@+id/textView11"
+
+        android:textSize="20sp"
+        android:text="Tie"
+        android:textColor="#a4c639"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_alignTop="@+id/information"
+        android:layout_alignLeft="@+id/tiesCount"
+        android:layout_alignStart="@+id/tiesCount" />
+</RelativeLayout>
